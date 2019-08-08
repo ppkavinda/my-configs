@@ -1,0 +1,7 @@
+alias gs='git status'
+alias gaa='git add -A'
+alias gc='git commit -m '
+alias glog='git log --graph'
+
+alias itmsweb='cd /mnt/content/dev/group-project2/code/web'
+alias itmsand='cd /mnt/content/dev/group-project2/code/android'
